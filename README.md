@@ -2,11 +2,11 @@
 
 An Ethereum based DAPP for logging whistleblower accounts anonymously.
 
-##My First DAPP! (Also my first non-trivial github repo)
+## My First DAPP! (Also my first non-trivial github repo)
 
 Made using React, truffle, drizzle and web3.
 
-##Future Enhancements
+## Future Enhancements
 
 Improve the UI/UX.
 
