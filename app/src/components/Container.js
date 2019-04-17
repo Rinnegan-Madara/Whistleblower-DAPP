@@ -13,7 +13,7 @@ const Container = () =>(
         <LoadingComponent initialized={initialized}>
           <div>
             <div id="heading">
-              <h1>Whistleblower's Application</h1>
+              <h1>Whistleblower DAPP</h1>
             </div> 
             <WriteData drizzleState={drizzleState} drizzle={drizzle}/>
             <ReadData drizzleState={drizzleState} drizzle={drizzle}/>
