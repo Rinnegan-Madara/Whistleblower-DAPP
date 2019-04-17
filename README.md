@@ -1,4 +1,4 @@
-# Whisleblower-DAPP
+# Whistleblower-DAPP
 
 An Ethereum based DAPP for logging whistleblower accounts anonymously.
 
