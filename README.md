@@ -10,4 +10,6 @@ Made using React, truffle, drizzle and web3.
 
 Improve the UI/UX.
 
+Host the DAPP on some testnet.
+
 Feedback and suggestions will be appreciated. ;)
