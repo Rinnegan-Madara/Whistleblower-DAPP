@@ -2,7 +2,7 @@
 
 An Ethereum based DAPP for that allowes whistleblowers to share information anonymously.
 
-## My First DAPP! (Also my first non-trivial github repo)
+## My First DAPP!
 
 Made using React, truffle, drizzle and web3.
 
